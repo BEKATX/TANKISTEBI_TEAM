@@ -11,9 +11,9 @@ Accountabilities below say who makes sure something happens. They do not say who
 ## Members and primary accountabilities
 | Name | GitHub | Primary accountability | First outreach target (a real person) |
 |---|---|---|---|
-| Beka Tkhilaishvili | @btkhilaishvili | Discovery: interview quality, synthesis | Dato (runs private marshrutka transport between Kutaisi center and KIU) |
-| Giorgi Urjumelashvili | @gurjumelashvili | Build: repo, code, deployment | Tamuna (shift manager at the KIU campus cafeteria) |
-| Anastasia Khevtsuriani | @akhevtsuriani | Delivery: deadlines, submissions, milestone tags | Sandro (organizer of the KIU Board Game Club handling shared inventory) |
+| Beka Tkhilaishvili | @BEKATX  | Discovery: interview quality, synthesis | Dato (runs private marshrutka transport between Kutaisi center and KIU) |
+| Giorgi Urjumelashvili | @UrjuHub | Build: repo, code, deployment | Tamuna (shift manager at the KIU campus cafeteria) |
+| Anastasia Khevtsuriani | @aniararis | Delivery: deadlines, submissions, milestone tags | Sandro (organizer of the KIU Board Game Club handling shared inventory) |
 
 ## How we work
 - **Channel:** Telegram group: "TANKISTEBI // CS-PD Fall 2026"
