@@ -3,14 +3,14 @@
 ## Beka Tkhilaishvili
 
 AUTHOR: Beka
-WHO I watched: Third-year KIU students living in Block 2.
+WHO I watched: Third-year KIU students living in Block F.
 STRUGGLE I saw: Carrying laundry baskets down 3 flights of stairs only to find all 4 washing machines running with 45 minutes left, so they either dump someone’s wet clothes on the dusty table or haul everything back upstairs.
 COST I can name: 30–40 minutes wasted per trip, wet clothes smelling moldy, and constant arguments in the dorm chat.
 
 AUTHOR: Beka
 WHO I watched: KIU students trying to get to the 9:00 AM lab from Kutaisi city center.
-STRUGGLE I saw: 25 people waiting at the stop, a 15-passenger marshrutka pulls up completely full and drives past without stopping, leaving 10 people stranded in the rain.
-COST I can name: Missed lab attendance quizzes (lost grade points), and 4 people paying 15 GEL each for a Bolt taxi out of panic.
+STRUGGLE I saw: 25 people waiting at the stop, a bus pulls up completely full and drives past without stopping, leaving 10 people stranded in the rain.
+COST I can name: Missed lab attendance quizzes (lost grade points), and 4 people paying 10 GEL each for a Yandex taxi out of panic.
 
 AUTHOR: Beka
 WHO I watched: Cafeteria cashier during the 13:00 lunch rush.
