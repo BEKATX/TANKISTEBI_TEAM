@@ -36,5 +36,5 @@ Committing this file is signing it.
 | Name | GitHub | Date |
 |---|---|---|
 | Beka Tkhilaishvili | @BEKATX | 2026-10-01 |
-| Giorgi Urjumelashvili | @gurjumelashvili | 2026-10-01 |
+| Giorgi Urjumelashvili | @UrjuHub | 2026-10-04 |
 | Anastasia Khevtsuriani | @akhevtsuriani | 2026-10-01 |
