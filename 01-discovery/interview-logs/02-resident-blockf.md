@@ -1,6 +1,6 @@
-**Interview 02 · Resident, Block F 3rd Floor · (code name: Resident-F307)**
+**Interview 02 · Resident, Block F Second Floor · (code name: Resident-F207)**
 
-**Week:** 2 · **Asker:** AK · **Logger:** GU · **Consent:** yes; notes only, no recording  
+**Week:** 2 · **Asker:** AK · **Logger:** BT · **Consent:** yes; notes only, no recording  
 **Real or practice:** real
 
 **Context:** Second year student living in Block F, does laundry around once or twice a week, usually in the evening or on weekends. **Our prediction:** We are wrong if students tell us they almost always find an open machine on their first visit, or that checking machine status is not something they care about.
