@@ -1,1 +1,1 @@
-Wk2 · Investigate: how solo service providers and barbers in Kutaisi manage appointment bookings and schedule conflicts · evidence: 00-foundation/problem-pool.md (Beka statement 3), 00-foundation/four-filters-scorecard.md · runner-up: KIU dorm laundry conflict · owner: BT
+Wk2 · Investigate: how KIU dorm residents in Block F manage laundry room machine bottlenecks and room visits · evidence: 00-foundation/problem-pool.md (Beka statement 1), 00-foundation/four-filters-scorecard.md · runner-up: evening food access after campus cafeteria closure · owner: BT
