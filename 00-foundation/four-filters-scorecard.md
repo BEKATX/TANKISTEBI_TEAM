@@ -11,3 +11,4 @@
 **Pick:** Dorm Laundry Chaos · **Runner-up:** Evening Food After 18:00
 
 **First line of DECISIONS.md:**
+Wk2 · Investigate: how KIU dorm residents in Block F manage laundry room machine bottlenecks and room visits · evidence: 00-foundation/problem-pool.md (Beka statement 1), 00-foundation/four-filters-scorecard.md · runner-up: evening food access after campus cafeteria closure · owner: BT
