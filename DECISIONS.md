@@ -1,0 +1,1 @@
+Wk2 · Investigate: how solo service providers and barbers in Kutaisi manage appointment bookings and schedule conflicts · evidence: 00-foundation/problem-pool.md (Beka statement 3), 00-foundation/four-filters-scorecard.md · runner-up: KIU dorm laundry conflict · owner: BT
